@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "gaussian-smoothing"
+  site-url: "https://deven367.github.io/gaussian-smoothing"
+  description: "foo"
+  repo-branch: master
+  repo-url: "https://github.com/deven367/gaussian-smoothing"
